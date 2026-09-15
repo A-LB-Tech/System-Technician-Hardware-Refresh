@@ -49,6 +49,6 @@ Alongside the scheduled hardware refresh, assisted employees with technical issu
 
 ## Outcome
 
-Successfully refreshed **14 employee workstations** across multiple client locations while maintaining accurate records of outgoing and replacement hardware. Replacement systems were installed, connected, organized, and verified for operation.
+Successfully refreshed **several employee workstations** across multiple client locations while maintaining accurate records of outgoing and replacement hardware. Replacement systems were installed, connected, organized, and verified for operation.
 
 Employee workspaces were restored to their original arrangements following deployment, minimizing disruption to users. In addition to the planned hardware refresh, provided on-site technical support for employee workstation and peripheral issues.
