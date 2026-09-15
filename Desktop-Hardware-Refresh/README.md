@@ -6,7 +6,7 @@ Performed an on-site desktop hardware refresh across multiple client locations, 
 
 ## Work Performed
 
-- Replaced **14 Lenovo ThinkCentre computers** across multiple employee workstations
+- Replaced **several Lenovo ThinkCentre computers** across multiple employee workstations
 - Disconnected and reconnected monitors, power, network connections, and workstation peripherals
 - Performed cable management to maintain clean and organized workstation setups
 - Preserved each employee's original desk and office arrangement, returning equipment and workspace items to their original positions
